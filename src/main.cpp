@@ -31,7 +31,7 @@ void setupOptions()
 	int opt;
 	
 	po::options_description generic("Generic Options");
-	desc.add_options()
+	generic.add_options()
 		("version,v", "display the version")
 		("help,h", "display help on options")
 		("config,c",
