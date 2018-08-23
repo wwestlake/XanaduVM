@@ -1,0 +1,10 @@
+To download and build the source use git:
+
+$ git clone https://github.com/wwestlake/XanaduVM.git
+$ cd XanaduVM
+$ ./copnfigure
+$ make
+
+
+
+
